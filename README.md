@@ -23,8 +23,12 @@ Accesing the Admin page:
 
 ![Screenshot 2024-09-29 234235](https://github.com/user-attachments/assets/1c53d6c5-161e-4705-8150-e2a94a73468c)
 
+All the inquiries from the customer will be recorded here on the Admin page:
 
 ![Screenshot 2024-09-30 000341](https://github.com/user-attachments/assets/d30dcf29-bf23-4de6-9854-8166333cab36)
+
+Customer transactions will be recorded here:
+
 ![Screenshot 2024-09-30 000423](https://github.com/user-attachments/assets/c007a0dc-dba8-49fe-a157-497bfc698d1f)
 
 
